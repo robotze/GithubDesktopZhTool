@@ -9,6 +9,8 @@ GithubDesktop汉化程序视频教程：https://www.bilibili.com/video/BV1Gr4y17
 
 注：遇到汉化失败，重试一下子。
 
+支持3.0.5
+
 ---
 
 ![](https://upload-images.jianshu.io/upload_images/8833471-dc6e889bce3744a6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
