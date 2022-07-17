@@ -7,7 +7,7 @@ GithubDesktop汉化程序使用教程：https://www.jianshu.com/p/ae2dc489dddf
 
 GithubDesktop汉化程序视频教程：https://www.bilibili.com/video/BV1Gr4y177aE
 
-
+注：遇到汉化失败，重试一下子。
 
 ---
 
