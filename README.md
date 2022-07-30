@@ -14,6 +14,8 @@ GithubDesktop汉化程序视频教程：https://www.bilibili.com/video/BV1Gr4y17
 
 如果有疑问或建议，欢迎关注微信公众号[robotze]，留言讨论
 
+如果您想了解汉化流程，公众号中有详细文档说明
+
 ![](https://raw.githubusercontent.com/robotze/-GitHubDesktop_ZH/main/wxqrcode.jpg)
 
 ---
