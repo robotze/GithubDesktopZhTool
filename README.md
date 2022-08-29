@@ -9,7 +9,7 @@ GithubDesktop汉化程序视频教程：https://www.bilibili.com/video/BV1Gr4y17
 
 注：遇到汉化失败，重试一下子。
 
-支持3.0.5
+支持3.0.6
 ---
 
 如果有疑问或建议，欢迎关注微信公众号[robotze]，留言讨论
