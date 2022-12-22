@@ -22,6 +22,7 @@ GitHubDesktop官网：https://desktop.github.com
 视频教程：[https://www.bilibili.com/video/BV1Gr4y177aE](https://www.bilibili.com/video/BV1Gr4y177aE)
 
 ![](https://upload-images.jianshu.io/upload_images/8833471-5b79738a38b98bee.png?imageMogr2/auto-orient/strip|imageView2/2/w/959/format/webp)
+
 ![](https://upload-images.jianshu.io/upload_images/8833471-f215d172dbe85d58.png?imageMogr2/auto-orient/strip|imageView2/2/w/986/format/webp)
 
 ---
