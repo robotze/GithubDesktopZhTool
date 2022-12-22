@@ -11,6 +11,8 @@ GitHubDesktop官网：https://desktop.github.com
 
 如果您想了解汉化流程，公众号中有详细文档说明
 
+公众号回复：001，可获取百度网盘下载地址
+
 ![image](https://raw.githubusercontent.com/robotze/-GitHubDesktop_ZH/main/wxqrcode.jpg)
 
 ---
