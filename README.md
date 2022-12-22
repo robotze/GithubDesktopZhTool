@@ -14,7 +14,7 @@ GitHubDesktop官网：https://desktop.github.com
 ![image](https://raw.githubusercontent.com/robotze/-GitHubDesktop_ZH/main/wxqrcode.jpg)
 
 ---
-#### Windows汉化
+### Windows汉化
 打开GithubDesktopZhTool.exe，点击汉化即可。
 
 视频教程：[https://www.bilibili.com/video/BV1Gr4y177aE](https://www.bilibili.com/video/BV1Gr4y177aE)
@@ -22,7 +22,7 @@ GitHubDesktop官网：https://desktop.github.com
 ![](https://upload-images.jianshu.io/upload_images/8833471-5b79738a38b98bee.png?imageMogr2/auto-orient/strip|imageView2/2/w/959/format/webp)
 
 ---
-#### Mac汉化
+### Mac汉化
 将本仓库中Mac文件夹下的main.js和renderer.js复制替换本地GithubDesktop的资源目录
 
 本地GithubDesktop资源目录一般为：/Applications/GitHub Desktop.app/Contents/Resources/app
@@ -32,7 +32,7 @@ GitHubDesktop官网：https://desktop.github.com
 
 
 ---
-#### Linux汉化
+### Linux汉化
 由于Linux版的GithubDesktop的最新版为3.1.1，所以此汉化版本为对应的3.1.1
 
 Linux版GithubDesktop仓库：https://github.com/shiftkey/desktop
