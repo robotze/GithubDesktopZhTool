@@ -31,7 +31,7 @@ GitHubDesktop官网：https://desktop.github.com
 
 本地GithubDesktop资源目录一般为：/Applications/GitHub Desktop.app/Contents/Resources/app
 
-视频教程：[https://www.bilibili.com/video/BV1514y1w7Mb](https://www.bilibili.com/video/BV1514y1w7Mb/)
+视频教程：[https://www.bilibili.com/video/BV1514y1w7Mb](https://www.bilibili.com/video/BV1514y1w7Mb)
 
 ![](https://upload-images.jianshu.io/upload_images/8833471-059ebc4cecfa31c6.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
 
@@ -46,5 +46,7 @@ Linux版GithubDesktop仓库：https://github.com/shiftkey/desktop
 将本仓库中Linux文件夹下的main.js和renderer.js复制替换本地GithubDesktop的资源目录
 
 本地GithubDesktop资源目录一般为：/usr/lib/github-desktop/resources/app
+
+视频教程：[https://www.bilibili.com/video/BV17v4y1z79h](https://www.bilibili.com/video/BV17v4y1z79h)
 
 ![](https://upload-images.jianshu.io/upload_images/8833471-e1e555687f41789f.png?imageMogr2/auto-orient/strip|imageView2/2/w/1025/format/webp)
