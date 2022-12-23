@@ -29,7 +29,7 @@ GitHubDesktop官网：https://desktop.github.com
 
 ---
 ### Mac汉化
-将本仓库中Mac文件夹下的main.js和renderer.js复制替换本地GithubDesktop的资源目录
+将本仓库中Mac文件夹下的main.js和renderer.js拷贝替换本地GithubDesktop的资源目录
 
 本地GithubDesktop资源目录一般为：/Applications/GitHub Desktop.app/Contents/Resources/app
 
