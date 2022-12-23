@@ -4,6 +4,7 @@
 GitHubDesktop官网：https://desktop.github.com
 
 注：遇到汉化失败，重试一下子。
+意：请一定保持Github Desktop版本与本汉化工具版本对应，否则汉化后Github Desktop可能会打不开。
 
 ---
 ## 支持3.1.2
