@@ -15,6 +15,8 @@ GitHubDesktop官网：https://desktop.github.com
 
 公众号回复：001，可获取百度网盘下载地址
 
+- [ ] 2023年小目标：实现全面汉化，欢迎来见证交流
+
 ![image](https://raw.githubusercontent.com/robotze/-GitHubDesktop_ZH/main/wxqrcode.jpg)
 
 ---
