@@ -31,6 +31,8 @@ GitHubDesktop官网：https://desktop.github.com
 
 本地GithubDesktop资源目录一般为：/Applications/GitHub Desktop.app/Contents/Resources/app
 
+视频教程：[https://www.bilibili.com/video/BV1514y1w7Mb](https://www.bilibili.com/video/BV1514y1w7Mb/)
+
 ![](https://upload-images.jianshu.io/upload_images/8833471-059ebc4cecfa31c6.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
 
 
