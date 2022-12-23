@@ -17,7 +17,7 @@ GitHubDesktop官网：https://desktop.github.com
 
 ![image](https://raw.githubusercontent.com/robotze/-GitHubDesktop_ZH/main/wxqrcode.jpg)
 
-- [ ] 2023年小目标：实现全面汉化，欢迎来见证交流
+- [ ] 2023年小目标：实现全面汉化，欢迎来见证交流。
 
 ---
 ### Windows汉化
