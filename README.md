@@ -44,7 +44,7 @@ GitHubDesktop官网：https://desktop.github.com
 
 
 ---
-### Linux汉化
+### Linux汉化 v3.1.1
 由于Linux版的GithubDesktop的最新版为3.1.1，所以此汉化版本为对应的3.1.1
 
 Linux版GithubDesktop仓库：https://github.com/shiftkey/desktop
