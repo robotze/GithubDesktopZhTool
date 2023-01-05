@@ -8,7 +8,7 @@ GitHubDesktop官网：https://desktop.github.com
 意：请一定保持Github Desktop版本与本汉化工具版本对应，否则汉化后Github Desktop可能会打不开。
 
 ---
-## 版本 3.1.2
+## 版本 3.1.3
 如果有疑问或建议，欢迎关注微信公众号\[robotze\]，留言讨论
 
 如果您想了解汉化流程，公众号中有详细文档说明
