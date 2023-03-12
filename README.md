@@ -54,3 +54,6 @@ Linux版GithubDesktop仓库：https://github.com/shiftkey/desktop
 视频教程：[https://www.bilibili.com/video/BV17v4y1z79h](https://www.bilibili.com/video/BV17v4y1z79h)
 
 ![](https://upload-images.jianshu.io/upload_images/8833471-e1e555687f41789f.png?imageMogr2/auto-orient/strip|imageView2/2/w/1025/format/webp)
+
+---
+地址：山东青岛
