@@ -15,8 +15,6 @@ GitHubDesktop官网：https://desktop.github.com
 
 公众号回复：001，文末可获取百度网盘下载地址
 
-汉化如风，常伴吾身。长路漫漫，有你作伴
-
 ![image](https://raw.githubusercontent.com/robotze/-GitHubDesktop_ZH/main/wxqrcode.jpg)
 
 - [x] 2022年小目标：实现Windows、Mac、Linux汉化。
