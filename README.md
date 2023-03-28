@@ -9,9 +9,13 @@ GitHubDesktop官网：https://desktop.github.com
 
 ---
 ## 版本 3.2.0
-欢迎关注微信公众号\[robotze\]，公众号有更为详细的文档说明
+欢迎关注微信公众号\[robotze\]
+
+公众号有更为详细的文档说明，且可在第一时间获取版本更新内容
 
 公众号回复：001，文末可获取百度网盘下载地址
+
+汉化如风，常伴吾身。长路漫漫，有你作伴
 
 ![image](https://raw.githubusercontent.com/robotze/-GitHubDesktop_ZH/main/wxqrcode.jpg)
 
