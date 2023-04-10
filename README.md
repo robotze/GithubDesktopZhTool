@@ -8,7 +8,7 @@ GitHubDesktop官网：https://desktop.github.com
 意：请一定保持Github Desktop版本与本汉化工具版本对应，否则汉化后Github Desktop可能会打不开。
 
 ---
-## 版本 3.2.0
+## 版本 3.2.1
 欢迎关注微信公众号\[robotze\]
 
 公众号有更为详细的文档说明，新版版将第一时间在公众号中发布
@@ -19,9 +19,9 @@ GitHubDesktop官网：https://desktop.github.com
 
 - [x] 2022年小目标：实现Windows、Mac、Linux汉化。
 
-- [ ] 2023年小目标：实现更多汉化。当前进度：40%
+- [ ] 2023年小目标：实现更多汉化。当前进度：50%
 
-| 🟩     | 🟩      | 🟩     | 🟩      | ⬜️     | ⬜️      | ⬜️     | ⬜️      | ⬜️     | ⬜️      |
+| 🟩     | 🟩      | 🟩     | 🟩      | 🟩     | ⬜️      | ⬜️     | ⬜️      | ⬜️     | ⬜️      |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 
 
@@ -48,7 +48,7 @@ GitHubDesktop官网：https://desktop.github.com
 
 
 ---
-### Linux汉化 3.1.8
+### Linux汉化
 Linux版GithubDesktop仓库：https://github.com/shiftkey/desktop
 
 将本仓库中Linux文件夹下的main.js和renderer.js复制替换本地GithubDesktop的资源目录
