@@ -19,7 +19,7 @@ GitHubDesktop官网：https://desktop.github.com
 
 - [x] 2022年小目标：实现Windows、Mac、Linux汉化。
 
-- [x] 2023年小目标：实现更多汉化。当前进度：50%
+- [x] 2023年小目标：实现更多汉化。
       
 - [ ] 2024年小目标：实现更多汉化。当前进度：60%
 
