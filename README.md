@@ -17,20 +17,25 @@ GitHubDesktop官网：https://desktop.github.com
 
 ![image](https://raw.githubusercontent.com/robotze/-GitHubDesktop_ZH/main/wxqrcode.jpg)
 
-## 新版本v2
-![image](https://raw.githubusercontent.com/robotze/Images/refs/heads/main/%E6%B1%89%E5%8C%96%E5%AD%97%E5%85%B8.png)
+## 新版本v3
 
-![image](https://raw.githubusercontent.com/robotze/Images/refs/heads/main/%E6%8F%90%E4%BA%A4%E6%8F%90%E7%A4%BA%E8%AF%8D.png)
+<img width="986" height="593" alt="image" src="https://github.com/user-attachments/assets/5c713e65-3d2d-4e2c-98e4-f6305d1fa48d" />
+
+🔥 升级一：自动保持汉化——升级完，汉化自己回来
+
+📚 升级二：更多的汉化内容——词条量近乎翻倍
+
+🤖 升级三：提交提示词适配 新 Copilot 通道
+
+详细内容见公众号置顶文章
+
+## 新版本v2
 
 🔥 升级一：Copilot 生成中文 commit
 
 🎨 升级二：汉化内容完全自定义
 
 📚 升级三：更多的汉化内容
-
-📚 升级四：支持自动汉化：第一次运行本程序需要手动汉化，然后打开自动汉化开关，以后会自动汉化
-
-详细内容见公众号置顶文章
 
 ---
 ## Windows汉化
